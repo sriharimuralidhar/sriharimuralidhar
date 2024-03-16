@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sriharimuralidhar/sriharimuralidhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a glimpse into my profile:
 
-Here are some ideas to get you started:
+🔭 I’m currently working on sharpening my cybersecurity skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advanced techniques in network security.
+
+💬 Ask me about my coding projects or cybersecurity journey!
+
+📫 How to reach me: Connect with me on [LinkedIn](www.linkedin.com/in/ssmuralidhar).
+
+⚡ Fun fact: I'm an Eagle Scout and a tech enthusiast!
+
+
+Let's connect and collaborate for a safer digital future! 😄
